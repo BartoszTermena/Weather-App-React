@@ -1,7 +1,7 @@
-1. git clone https://github.com/BartoszTermena/Weather-App-React.git
-2. cd Weather-App-React
-3. npm install node
-4. npm start
+git clone https://github.com/BartoszTermena/Weather-App-React.git
+cd Weather-App-React
+npm install node
+npm start
 
 Open http://localhost:3000 to view it in the browser.
 
