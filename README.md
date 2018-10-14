@@ -1,7 +1,8 @@
-In the project directory, you can run:
+1. git clone https://github.com/BartoszTermena/Weather-App-React.git
+2. cd Weather-App-React
+3. npm install node
+4. npm start
 
-npm start
-Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.
